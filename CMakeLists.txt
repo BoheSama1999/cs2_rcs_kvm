@@ -58,7 +58,6 @@ set(LibsDirectory ${PROJECT_SOURCE_DIR}/Libs)
     find_package(Threads REQUIRED)
 # ExternalProject -----end
 
-
 # add the executable
 add_executable(${PROJECT_NAME}
  ${executeList}
