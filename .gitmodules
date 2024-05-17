@@ -1,0 +1,12 @@
+[submodule "Libs/memflow"]
+	path = Libs/memflow
+	url = https://github.com/memflow/memflow.git
+[submodule "Libs/memflow-kvm"]
+	path = Libs/memflow-kvm
+	url = https://github.com/memflow/memflow-kvm.git
+[submodule "Libs/memflow-qemu"]
+	path = Libs/memflow-qemu
+	url = https://github.com/memflow/memflow-qemu.git
+[submodule "Libs/memflow-win32"]
+	path = Libs/memflow-win32
+	url = https://github.com/memflow/memflow-win32.git
