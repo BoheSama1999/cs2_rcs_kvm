@@ -1,6 +1,5 @@
-#include <stdio.h>
 #include "cs2_rcs.hpp"
-
+#include <stdio.h>
 
 
 
